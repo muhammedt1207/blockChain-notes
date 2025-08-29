@@ -1,6 +1,6 @@
 # 🔐 Hashing & Blockchain Basics
 
-Hey! These are my personal notes as I started learning blockchain. I've tried to keep it simple and beginner-friendly — like I'm explaining it to a friend. 😄
+
 
 ---
 
